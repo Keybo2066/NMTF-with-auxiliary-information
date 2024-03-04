@@ -13,3 +13,4 @@ See [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a72c501d-992d-4f01-b7da-c
 
 ### Introduction
 ***
+Conventional Non-negative Multiple Tensor Factorization (NMTF) methods are unable to incorporate "additional information" that represents the underlying structure of the data, such as feature adjacencies, even if such information exists. This method addresses this issue by adding penalties that capture the continuous variation of data in a particular mode in order to incorporate additional information about spatio-temporal adjacencies. This method is expected to be applied to data analysis in various fields, as it allows for the clear extraction of hidden patterns in spatio-temporal data.
